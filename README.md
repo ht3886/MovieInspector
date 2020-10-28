@@ -12,3 +12,7 @@ A simple website to search for movie ratings, genre, release date and many more 
 
 ### Movie Details
 ![](snapshots/search_2.png)
+
+## Acknowledgements
+
+-   https://www.traversymedia.com/
